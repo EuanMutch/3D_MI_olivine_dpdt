@@ -16,7 +16,9 @@ Gmsh can be installed and downloaded here: https://gmsh.info/#Download
 Here is a description of the included files in the subfolders.
 
 #--------------------------------------------------------------------------------------------
-#3D_H2O_OL_degas
+
+# 3D_H2O_OL_degas
+
 3D model code for water loss from olivine hosted melt inclusions with degassing boundary conditions
 
 MI_processes.sh - Wrapper script with input options for the diffusive anisotropy and number of timesteps.
