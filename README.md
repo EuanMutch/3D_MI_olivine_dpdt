@@ -56,9 +56,6 @@ Mesh files
 
 OL_mesh1 - lower resolution mesh - 25 micron spatial resolution in olivine crystal and 12.5 micron spatial resolution in and around 30 micron radius melt inclusion.
 
-OL_mesh2 - higher resolution mesh - 15 micron spatial resolution in olivine crystal and 7.5 micron spatial resolution in and around 30 micron radius melt inclusion.
-
-
 Seguam_degas.csv - degassing curve for Seguam magma calculated using VolatileCalc - 5000 steps in the degassing model. This is used as the external boundary condition in the model.
 
 #=============================================================================
